@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Hello
+title: Unfamo.us for Sale
 ---
 
-# 👋 Welcome to Unfamo.us
+# 👋 Hey there!
 
-Just a quick message to let you know this place exists.
-
-More soon.
+This domain is now **for sale**.<br>
+If you're interested, contact:  
+**[mike@sitefloat.com](mailto:mike@sitefloat.com)** for price.
